@@ -5,7 +5,7 @@
 ## process
 
 2017/7/7 Set up the framework
-
+2017/7/9 suck the guide
 ## file structure
 
 * `src/*`: all source code
